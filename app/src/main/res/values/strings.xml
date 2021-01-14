@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceTest</string>
+    <integer name="UPDATE_TEXT">1</integer>
+    <string name="you_are_baby">you are baby</string>
+    <string name="received_in_MyBroadcastReceiver">received in MyBroadcastReceiver</string>
+
+</resources>
